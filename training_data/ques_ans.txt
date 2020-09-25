@@ -1,0 +1,16 @@
+I need to order a Pizza
+Click on the pizza to make an order
+Double Paneer Supreme
+Do you want to buy another pizza?
+Veg Exotica
+Do you want to buy another pizza?
+Triple Chicken Feast
+Do you want to buy another pizza?
+Malai Chicken Tikka
+Do you want to buy another pizza?
+Yes
+Click on the pizza to make an order
+No
+Kindly provide your name
+I need to track my order
+Please provide your order id
